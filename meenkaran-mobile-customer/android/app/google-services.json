@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "191166153943",
+    "project_id": "meenkaran-be306",
+    "storage_bucket": "meenkaran-be306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191166153943:android:6732f4f116a1acb29c1c92",
+        "android_client_info": {
+          "package_name": "com.acube.connectone_meenkaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191166153943-59ndf8jdb6h1s0grvs4lf066kucaha9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNuagkmFCfrx6Pq7fJ03XEjtDb_WZgCP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191166153943-59ndf8jdb6h1s0grvs4lf066kucaha9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191166153943:android:673d50c53735083a9c1c92",
+        "android_client_info": {
+          "package_name": "com.example.connectone_meenkaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191166153943-59ndf8jdb6h1s0grvs4lf066kucaha9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNuagkmFCfrx6Pq7fJ03XEjtDb_WZgCP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191166153943-59ndf8jdb6h1s0grvs4lf066kucaha9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
